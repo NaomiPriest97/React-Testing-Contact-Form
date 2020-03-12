@@ -102,6 +102,11 @@ input[type="submit"] {
   margin: 0 auto;
 }
 
+.App > h1 {
+  text-transform: uppercase;
+}
+
+
 button[type="button"] {
   display: block;
   appearance: none;
